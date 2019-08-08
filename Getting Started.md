@@ -24,6 +24,43 @@ To to https://editor.p5js.org/ to make an account.
 
 ### Environment
 
-The p5.js Web Editor allows students to code and automatically give studednts useful feedback. 
+The p5.js Web Editor allows students to code and automatically give students useful feedback. 
+
+There are three primary areas of the environment
+
+1. The Code Editor
+![](environ_sketch.png)
+
+2. The Preview Window
+
+![](environ_preview.png)
+
+3. The Console Window
+
+![](environ_console.png)
 
 
+# Exercises
+## Exercise 1 - Draw a circle/ellipse
+This is to make sure you understand where to write out come and how to display it.
+
+Follow the instructions below:
+
+1. In the **Code Editor** type the following code:
+
+```javascript
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(204);
+  ellipse(50, 50, 80, 80)
+}
+```
+2. Click the Run/Play Button
+!()[run_icon.png]
+
+3. Check the Preview Window. Does it look like this?
+
+!()[example_1_output.png]
