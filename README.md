@@ -11,80 +11,80 @@ After completeing this course, the student will eb able to:
 1.  Demonstrate an understanding of computer programing.
 2.  Learn how to learn the tools they need to accomplish projects that interest them.
 
-# Introduction
+# List of Topics and Subtopics
+## Introduction
+### JavaScript
+### p5.js
+### p5.js Web Editor
 
-Students will have FUN!
+## Drawing
 
-## p5.js
+### Shapes and Drawing
 
-## p5.js Web Editor
+### Color
 
-# Drawing
+### Errors and Console
 
-## Shapes and Drawing
+### Code Comments
 
-## Color
+## Animation
 
-## Errors and Console
+### Variables
 
-## Code Comments
+### Objects
 
-# Animation
+### map Function
 
-## Variables
+### random Function
 
-## Objects
+### createGraphics
 
-## map Function
+## Interaction
 
-## random Function
+### Conditional Statements
 
-## createGraphics
+### Bouncing Ball
 
-# Interaction
+### Else and Else if, AND and OR
 
-## Conditional Statements
+### Boolean Variables
 
-## Bouncing Ball
+### while and for Loops
 
-## Else and Else if, AND and OR
+### Nested Loops
 
-## Boolean Variables
+## Modularity and Reusability
 
-## while and for Loops
+### Function Basics
 
-## Nested Loops
+### Function Parameters and Arguments
 
-# Modularity and Reusability
+### Functions and Return
 
-## Function Basics
+## Object Oriented Programming (??)
 
-## Function Parameters and Arguments
+### Introduction to OOP with ES6
 
-## Functions and Return
+### Classes in JS with ES6
 
-# Object Oriented Programming (??)
+### Constructor Arguments with Classes in JavaScript
 
-## Introduction to OOP with ES6
+### p5.js Web Editor: Adding JS files
 
-## Classes in JS with ES6
+## Replication and Duplication (??)
 
-## Constructor Arguments with Classes in JavaScript
+### Arrays
 
-## p5.js Web Editor: Adding JS files
+### for...of Loop
 
-# Replication and Duplication (??)
+### Mouse Interaction with Objects
 
-## Arrays
+### Removing Objects from Arrays
 
-## for...of Loop
+### Object Communication
 
-## Mouse Interaction with Objects
+### p5.js Web Editor: Uploading Media Files
 
-## Removing Objects from Arrays
+### Objects and Images
 
-## Object Communication
-
-## p5.js Web Editor: Uploading Media Files
-
-## Objects and Images
+## Project
