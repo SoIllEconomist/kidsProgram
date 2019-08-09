@@ -12,12 +12,12 @@ In the course we will be learning [p5.js](https://p5js.org/) which is a [JavaScr
 
 Sketching is a way of thinking that is playful and quick. The goal is to explore many ideas in a short amount of time. Students can start out by sketching on paper them moving the results to code. Ideas for animation and interactions may be sketched with storyboards.
 
-
+# Homework for August 11, 2019
 ## p5.js Web Editor
 
 We will be using the [p5.js Web Editor](https://editor.p5js.org/) for the duration of the course. Students are need to have an account setup.
 
-To to https://editor.p5js.org/ to make an account. 
+Go to https://editor.p5js.org/ to make an account. 
 
 ![](../p5js_web_editor_sign_up.gif)
 
