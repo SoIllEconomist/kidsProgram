@@ -23,4 +23,4 @@ if (mouseIsPressed) {
 
 Here is a working example of the program:
 
-![make_circles](make_circles.gif)
+![make_circles](../static/make_circles.gif)
