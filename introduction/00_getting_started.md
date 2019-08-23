@@ -66,3 +66,5 @@ function draw() {
 3. Check the Preview Window. Does it look like this?
 
 ![](../static/example_1_output.png)
+
+[Next Lesson](introduction/01_make_circles.md)
