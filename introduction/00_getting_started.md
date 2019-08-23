@@ -19,7 +19,7 @@ We will be using the [p5.js Web Editor](https://editor.p5js.org/) for the durati
 
 Go to https://editor.p5js.org/ to make an account. 
 
-![](../p5js_web_editor_sign_up.gif)
+![](../static/p5js_web_editor_sign_up.gif)
 
 
 ### Environment
@@ -29,15 +29,15 @@ The p5.js Web Editor allows students to code and automatically give students use
 There are three primary areas of the environment
 
 1. The Code Editor
-![](../environ_sketch.png)
+![](../static/environ_sketch.png)
 
 2. The Preview Window
 
-![](../environ_preview.png)
+![](../static/environ_preview.png)
 
 3. The Console Window
 
-![](../environ_console.png)
+![](../static/environ_console.png)
 
 
 # Exercises
@@ -61,8 +61,8 @@ function draw() {
 ```
 2. Click the Run/Play Button
 
-![](../run_icon.png)
+![](../static/run_icon.png)
 
 3. Check the Preview Window. Does it look like this?
 
-![](../example_1_output.png)
+![](../static/example_1_output.png)
