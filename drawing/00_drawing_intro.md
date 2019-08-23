@@ -6,7 +6,7 @@
 
 ### Canvas
 
-![Canvas Example](html_grid_example.jpeg)
+![Canvas Example](../static/html_grid_example.jpeg)
 
 ## Basic Shape Functions
 
