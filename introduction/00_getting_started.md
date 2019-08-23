@@ -67,4 +67,4 @@ function draw() {
 
 ![](../static/example_1_output.png)
 
-[Next Lesson](introduction/01_make_circles.md)
+[Next Lesson](01_make_circles.md)
