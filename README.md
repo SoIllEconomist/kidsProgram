@@ -13,6 +13,6 @@ After completeing this course, the student will eb able to:
 
 # Topics List (Updated Weekly)
 
-1. [Introduction](introduction/getting_started.md)
-2. [Drawing](drawing/make_circles.md)
+1. [Introduction](introduction/00_getting_started.md)
+2. [Drawing](drawing/01_make_circles.md)
 
