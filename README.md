@@ -15,4 +15,5 @@ After completeing this course, the student will eb able to:
 
 1. [Introduction](introduction/00_getting_started.md)
 2. [Drawing](drawing/00_drawing_intro.md)
+4. [Variables and Loops](variables/00_variable_introduction.md)
 
