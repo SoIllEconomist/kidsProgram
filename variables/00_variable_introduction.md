@@ -70,3 +70,4 @@ function draw() {
   
 }
 ```
+[Next Lesson](01_make_mathematics.md)
