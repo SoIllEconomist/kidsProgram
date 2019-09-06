@@ -38,3 +38,4 @@ The operators for the basic math operators are:
 | /        	| Division       	|
 | =        	| Assignment     	|
 
+[Next Lesson](02_loops.md)
