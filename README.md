@@ -14,6 +14,7 @@ After completeing this course, the student will eb able to:
 # Topics List (Updated Weekly)
 
 1. [Introduction](introduction/00_getting_started.md)
-2. [Drawing](drawing/00_drawing_intro.md)
-4. [Variables and Loops](variables/00_variable_introduction.md)
+1. [Drawing](drawing/00_drawing_intro.md)
+1. [Variables and Loops](variables/00_variable_introduction.md)
+1. [Response](respone/00_response_introduction.md)
 
