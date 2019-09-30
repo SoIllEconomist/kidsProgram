@@ -103,6 +103,6 @@ Use the "Track the Mouse" Example from above as templates for the homework. Stud
 
 1. EASY: Recreate the inclass activity. Students should edit the "Track the Mouse" activity so that it has a rainbow effect while draging the mouse over the Canvas. 
 1. MODERATE: Edit the shape of the ellipse to be something else; triangle, line, another size of ellipse.
-1. HARD: Use the code from the ["Make Circles" Example](introduction/01_make_circles.md) from the introduction to have the screen clear when the mouse is pressed. 
+1. HARD: Use the code from the ["Make Circles" Example](../introduction/01_make_circles.md) from the introduction to have the screen clear when the mouse is pressed. 
 
 
