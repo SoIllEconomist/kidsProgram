@@ -17,4 +17,6 @@ After completeing this course, the student will eb able to:
 1. [Drawing](drawing/00_drawing_intro.md)
 1. [Variables and Loops](variables/00_variable_introduction.md)
 1. [Response](response/00_reponse_introduction.md)
+1. [Response II](response/01_response_mouse_click.md)
+1. [Response III](response/01_response_location.md)
 
