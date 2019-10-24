@@ -82,7 +82,7 @@ function draw() {
 
 ### Dot Follows
 
-A mew circle is added o the canvas each time the code in `draw()` is run. To refresh the screen and only display the newest circle, place a `background()` function at the beginning. 
+A new circle is added o the canvas each time the code in `draw()` is run. To refresh the screen and only display the newest circle, place a `background()` function at the beginning. 
 
 ```javascript
 function setup() {
