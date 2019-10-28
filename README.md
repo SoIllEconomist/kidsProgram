@@ -19,4 +19,5 @@ After completeing this course, the student will eb able to:
 1. [Response](response/00_reponse_introduction.md)
 1. [Response II](response/01_response_mouse_click.md)
 1. [Response III](response/02_response_location.md)
+1. [Extra: Halloween](extra/halloween_2019.md)
 
