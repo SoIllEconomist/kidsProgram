@@ -22,4 +22,5 @@ After completeing this course, the student will eb able to:
 1. [Extra: Halloween](extra/halloween_2019.md)
 1. [Translate](translate_rotate_scale/00_translate.md)
 1. [Owl](functions/owl.md)
+1. [Colorful Owl](functions/colorful_owl.md)
 
